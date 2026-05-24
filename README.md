@@ -43,4 +43,4 @@ Telco Customer Churn Dataset
 - Dashboard Screenshot
 
 ## Dashboard Preview
-https://github.com/anjali-rasala/FUTURE_DS_02/blob/main/Customer%20Retention%20%26%20Churn%20Analysis%20Dashboard.png
+https://github.com/anjali-rasala/FUTURE_DS_02/blob/main/dashboard.png
